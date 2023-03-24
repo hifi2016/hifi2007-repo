@@ -1,0 +1,9 @@
+{
+    "name": "repository",
+    "description": "app",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hifi2016/stream2/main/stream"
+     
+    ]
+  }
