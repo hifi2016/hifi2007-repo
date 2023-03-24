@@ -3,7 +3,7 @@
     "description": "app",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/hifi2016/stream2/main/stream"
+      "https://raw.githubusercontent.com/hifi2016/hifi20072/main/hifi20072.json"
      
     ]
   }
